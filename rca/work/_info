@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/jdc183/EECS301/lab4/rca
+vRippleCarryAdder
+Iz2Tz35:WZ]IBJLIEcS_RN0
+Vm7Cnne93czJ<M0UohjaA73
+w1585941081
+8rippleCarryAdder.v
+FrippleCarryAdder.v
+L0 3
+Z1 OL;L;6.5f;42
+r1
+31
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@ripple@carry@adder
+!s100 :SRJ=C66kFklR=N6::=K:1
+!s85 0
+vSlice
+IZmk6bBK9W97ojfcY9e1dH3
+V;d@NJimQWTIQnRl;afVP:3
+w1585941038
+8slice.v
+Fslice.v
+L0 5
+R1
+r1
+31
+R2
+n@slice
+!s100 ;[=OO3F1FdW94@3jkhJHS0
+!s85 0
+vTestbench
+!s100 zCj]iUk]0O[K83`lceXQ@2
+I2D<FF4oGz4@8bnHjo@^]80
+VGdUiEZgaMiVEi@bgHJeE13
+w1585949735
+8testbench.v
+Ftestbench.v
+L0 3
+R1
+r1
+!s85 0
+31
+R2
+n@testbench
