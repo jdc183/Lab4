@@ -1,0 +1,89 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/jdc183/EECS301/lab4/alu
+vAlu
+I7=PlcZKT@0WOTSSM7:D[X2
+Vn284DcY6C=KkWRHoA>CGT3
+w1585968842
+8wrapper.v
+Fwrapper.v
+L0 2
+Z1 OL;L;6.5f;42
+r1
+31
+Z2 o-L mtiAvm -L mtiOvm -L mtiUPF
+n@alu
+!s100 m_hlKl^m:gBE:LJ?>Q0=k1
+!s85 0
+vCarry
+IN6[?UUo`>61QYMi<YiRJj2
+Vj?LKSMdHl^omfQELG=SfJ2
+w1585968520
+8carryBlock.v
+FcarryBlock.v
+L0 2
+R1
+r1
+31
+R2
+n@carry
+!s100 G3[:4DY^<]Tb6K>_hD<YD1
+!s85 0
+vCarryLookAhead
+IA59Pf@JKn921^R95MU^`L0
+VW^3me6Ib[9Si48gRVCbBn0
+w1585963969
+8carryLookAhead.v
+FcarryLookAhead.v
+L0 3
+R1
+r1
+31
+R2
+n@carry@look@ahead
+!s100 gnefabgz8aGA5``j1YiLn0
+!s85 0
+vCin
+Im8S=^^Lj=7mPM7UEb?ALI1
+Vm1T:]BC:MToT>mgQQ7nk>1
+w1585966732
+8cin.v
+Fcin.v
+L0 1
+R1
+r1
+31
+R2
+n@cin
+!s100 HDJA]<U?=gWL5?Lm@@of40
+!s85 0
+vMux
+I90<gTmmHiDUHoTjQ;4Ee23
+V0Si_B<2KkEa`h]UiLd`:H3
+w1585968348
+8mux.v
+Fmux.v
+L0 2
+R1
+r1
+31
+R2
+n@mux
+!s100 ?m1PZ9NL@]FDVG0[9N]D]3
+!s85 0
+vTestbench
+!s100 6Ac>nee;iCX>KQBBaePH@0
+I7:<l<`DC7:o]Iz0k97oG_2
+VGdUiEZgaMiVEi@bgHJeE13
+w1585969483
+8testbench.v
+Ftestbench.v
+L0 3
+R1
+r1
+!s85 0
+31
+R2
+n@testbench
